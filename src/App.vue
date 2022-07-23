@@ -57,9 +57,9 @@ nav a.router-link-exact-active {
 }
 
 .page-content {
-  padding: 20px;
+  padding: 20px 68px;
   border-radius: 40px;
-  margin: 0 20%;
+  margin: 20px 20%;
   background: #ddd;
 }
 
